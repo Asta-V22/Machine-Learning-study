@@ -1,2 +1,1 @@
-Hello, copy it if you want.
-- Rudransh Vatsa
+Hello, copy it if you want
